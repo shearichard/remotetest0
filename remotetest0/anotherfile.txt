@@ -4,3 +4,6 @@ this is a third line
 Another line added.
 Material for test commit 4.
 Material for test commit 5.
+Material for test commit 6.
+Material for test commit 7.
+Material for test commit 8.
